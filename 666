@@ -39,23 +39,27 @@
 		"message": "Privacy Policy Message",
 		"url": "https://termly.io/privacy-policy/"
 	},
-	"GuideContent": [{
-			"title": "Guide 1",
-			"description": "Ice Scream 6 Friends: Charlie est un jeu d'horreur à la première personne qui te permettra de retourner à la célèbre saga Keplerian. Cette fois, le personnage principal est Charlie, un jeune homme toujours perdu dans une usine étrange. Ta mission est de l'aider à s'échapper avant que le super robot ne l'attrape. " 
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": "Ice Scream 6 Friends: Charlie est un jeu d'horreur à la première personne qui te permettra de retourner à la célèbre saga Keplerian. Cette fois, le personnage principal est Charlie, un jeune homme toujours perdu dans une usine étrange. Ta mission est de l'aider à s'échapper avant que le super robot ne l'attrape. " 
+},
 		{
-			"title": "Guide 2",
-			"description": "Ice Scream 6 Friends: Charlie graphiques habituels en 3D et le même genre de bande sonore communément trouvé dans ces jeux. Grâce au point de vue à la première personne, c'est facile de sentir ce que Charlie ressent en découvrant de nouvelles pièces dans l'usine. Le Mini Rods sera toujours en observation. Occasionnellement, tu devras recourir au mode fantôme pour éviter d'être vue par tes ennemis. . "
+"title": "Guide 2",
+			"description": "Ice Scream 6 Friends: Charlie graphiques habituels en 3D et le même genre de bande sonore communément trouvé dans ces jeux. Grâce au point de vue à la première personne, c'est facile de sentir ce que Charlie ressent en découvrant de nouvelles pièces dans l'usine. Le Mini Rods sera toujours en observation. Occasionnellement, tu devras recourir au mode fantôme pour éviter d'être vue par tes ennemis. "
 		},
 		{
-			"title": "Guide 3",
-			"description": "Pour te déplacer utilise le D-pad à gauche de l'écran. Ici, tu trouveras aussi uen sélection de boutons d'action qui vont t'aider à changer la position du corps de Charlie ou ouvrir certaines trappes et portes. Il y a aussi un système d'indices que tu peux utiliser quand tu as du mal à trouver la sortie.  "
+"title": "Guide 3",
+"description": "Pour te déplacer utilise le D-pad à gauche de l'écran. Ici, tu trouveras aussi uen sélection de boutons d'action qui vont t'aider à changer la position du corps de Charlie ou ouvrir certaines trappes et portes. Il y a aussi un système d'indices que tu peux utiliser quand tu as du mal à trouver la sortie.  "
 		},
 		{
-			"title": "Guide 4  ",
-			"description": " Ice Scream 6 Friends: Charlie se déroule dans un monde horrible où tu vas te battre contre des créatures étranges en essayant d'aider Charlie à s'échapper. Ces amis ont déjà trouvé une sortie, maintenant c'est au tour du garçon de vivre des expériences terrifiantes pour quitter cet endroit sinistre.  "
+"title": "Guide 4  ",
+"description": " Ice Scream 6 Friends: Charlie se déroule dans un monde horrible où tu vas te battre contre des créatures étranges en essayant d'aider Charlie à s'échapper. Ces amis ont déjà trouvé une sortie, maintenant c'est au tour du garçon de vivre des expériences terrifiantes pour quitter cet endroit sinistre.  "
 		},
 		{
-			"title": "Guide 5",
-			"description": "guide for Ice Scream 6 is the best guide for beginners to understand the way of the game with ice scream 6 friends you freed your friends from the evil ice-cream seller Rod .But the Mini-Rods still looking for them in the factory. In this new chapter you will play as Mike and his friends face the Mini-Rods and the ice cream man. "
+"title": "Guide 5",
+"description": "guide for Ice Scream 6 is the best guide for beginners to understand the way of the game with ice scream 6 friends you freed your friends from the evil ice-cream seller Rod .But the Mini-Rods still looking for them in the factory. In this new chapter you will play as Mike and his friends face the Mini-Rods and the ice cream man. "
 		}
 	]
+}
